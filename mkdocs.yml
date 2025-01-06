@@ -1,0 +1,63 @@
+site_name: MAGICC Lab
+site_description: 'Primary website of MAGICC lab, showing relevent research and accomplishments'
+site_url: https://byu-magicc.github.io/
+site_author: 'MAGICC lab members'
+
+theme:
+  name: material
+  features:
+    - content.action.edit
+    - navigation.tabs
+  palette:
+    primary: custom
+    accent: custom
+  favicon: assets/favicon.ico
+  logo: assets/byu_logo.svg
+
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - codehilite:
+      linenums: false
+      guess_lang: false
+  - footnotes
+  - md_in_html
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - toc:
+      permalink: true
+
+plugins:
+  - glightbox
+  - search
+
+nav:
+  - Home: index.md
+  - Directory:
+    - Overview: directory/overview.md
+    - Faculty: directory/faculty.md
+    - Current Students: directory/current_students.md
+    - Previous students: directory/previous_students.md
+  - Research:
+    - Getting Started In Research: research/getting_started_in_research.md
+    - Publications: research/publications.md
+    - Current Projects: research/current_projects.md
+    - Past Research Projects: research/past_research_projects.md
+  - Media:
+    - News Releases: media/news_releases.md
+    - Videos: https://www.youtube.com/user/MAGICCLab/videos
+  - CAAMS: https://caams.center/
+  - Wiki: https://byu-magicc.github.io/wiki/
+  - GitHub: https://github.com/byu-magicc
