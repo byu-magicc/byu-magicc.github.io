@@ -2,6 +2,7 @@ site_name: MAGICC Lab
 site_description: 'Primary website of MAGICC lab, showing relevent research and accomplishments'
 site_url: https://byu-magicc.github.io/
 site_author: 'MAGICC lab members'
+edit_uri: 'https://github.com/byu-magicc/byu-magicc.github.io/edit/main/docs/'
 
 theme:
   name: material
