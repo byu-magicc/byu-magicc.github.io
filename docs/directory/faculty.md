@@ -1,6 +1,6 @@
 <div class="grid cards" markdown>
 
--   ![](assets/randy-beard.jpg){ width=250px }
+-   ![](assets/randy-beard.jpg){ width=300px }
 
     **<span style="font-size: 25px;">Dr. Randy Beard</span>**
 
@@ -12,7 +12,7 @@
 
     **Website:** [https://ece.byu.edu/directory/randy-beard](https://ece.byu.edu/directory/randy-beard)
 
--   ![](assets/tim-mclain.jpg){ width=250px }
+-   ![](assets/tim-mclain.jpg){ width=300px }
 
     **<span style="font-size: 25px;">Dr. Tim McLain</span>**
 
@@ -24,12 +24,12 @@
 
     **Website:** [https://www.me.byu.edu/faculty/timmclain](https://www.me.byu.edu/faculty/timmclain)
 
--   ![](assets/cammy-peterson.jpg){ width=250px }
+-   ![](assets/cammy-peterson.jpg){ width=300px }
 
     **<span style="font-size: 25px;">Dr. Cammy Peterson</span>**
 
-    ---
 
+    ---
     **Department:** Electrical and Computer Engineering
 
     **Email:** cammy.peterson@byu.edu
