@@ -49,8 +49,7 @@ nav:
   - Directory:
     - Overview: directory/overview.md
     - Faculty: directory/faculty.md
-    - Current Students: directory/current_students.md
-    - Previous students: directory/previous_students.md
+    - Students: directory/students.md
   - Research:
     - Getting Started In Research: research/getting_started_in_research.md
     - Publications: research/publications.md
