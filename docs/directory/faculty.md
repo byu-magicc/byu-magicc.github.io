@@ -28,8 +28,8 @@
 
     **<span style="font-size: 25px;">Dr. Cammy Peterson</span>**
 
-    ---
 
+    ---
     **Department:** Electrical and Computer Engineering
 
     **Email:** cammy.peterson@byu.edu
