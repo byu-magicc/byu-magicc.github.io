@@ -52,13 +52,10 @@ nav:
     - Current Students: directory/current_students.md
     - Previous students: directory/previous_students.md
   - Research:
-    - Getting Started In Research: research/getting_started_in_research.md
-    - Publications: research/publications.md
     - Current Projects: research/current_projects.md
-    - Past Research Projects: research/past_research_projects.md
-  - Media:
-    - News Releases: media/news_releases.md
-    - Videos: https://www.youtube.com/user/MAGICCLab/videos
-  - CAAMS: https://caams.center/
+    - Past Projects: research/past_projects.md
+    - Publications: research/publications.md
+  - YouTube: https://www.youtube.com/user/MAGICCLab/videos
+  - CAAMS Website: https://caams.center/
   - Wiki: https://byu-magicc.github.io/wiki/
   - GitHub: https://github.com/byu-magicc
