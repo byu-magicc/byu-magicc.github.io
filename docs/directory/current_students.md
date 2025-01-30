@@ -2,26 +2,24 @@
 EDITING GUIDELINES
 
 The directory is organized with Material for MkDocs' grid feature.
-To add an entry to this page, copy the template below and add it inside the <div> HTML blocks.
-Add your name, info, and bio.
 
-Add entries in alphabetical order, by last name.
-Copy photos to the docs/directory/assets folder.
-Also, photos should be cropped to be square and 600x600 in resolution.
+To add an entry to this page, we need to two things:
+1. Add a photo and entry to the current_student.md page.
+2. Copy the template student page and fill it with your information.
+
+To do the first:
+Copy the template below and add it inside the <div> HTML blocks for the correct section, in alphabetical order by last name. Replace all `first` and `last` with your own name. Copy a professional photo of yourself names first_last.jpg (or .png, just make sure to update the filepath on the grid entry too) to the docs/directory/current_students/assets folder, cropped to be square and no larger than 600x600 in resolution. Preferably exactly 600x600.
+
+To do the second:
+Copy the template.md file in the docs/directory/current_students folder, renaming your copy to first_last.md of your name. Populate each section of the template with your information.
+
+Once you've done this follow the instructions in the README.md to build and host the webpage locally (it's much easier than it sounds) and make sure everything looks good with your additions.
 
 TEMPLATE
 ```
--   ![](assets/first_last.jpg){ width=300px }
+-   ![](current_students/assets/first_last.jpg){ width=300px }
 
-    **<span style="font-size: 25px;">First Last</span>**
-
-    ---
-
-    **Department:** Electrical and Computer Engineering
-
-    **Email:** netid@byu.edu
-
-    This is a short, professional bio.
+    [**<span style="font-size: 25px;">First Last</span>**](current_students/first_last.md)
 ```
 
 -->
@@ -29,18 +27,9 @@ TEMPLATE
 # Doctoral Students
 
 <div class="grid cards" markdown>
--   ![](assets/brandon_sutherland.jpg){ width=300px }
+-   ![](current_students/assets/brandon_sutherland.jpg){ width=300px }
 
-    **<span style="font-size: 25px;">Brandon Sutherland</span>**
-
-    ---
-
-    **Department:** Electrical and Computer Engineering
-
-    **Email:** bsuther2@byu.edu
-
-    Brandon's research interests include cooperative state estimation, autopilot development, and machine learning applications for aerial robotics.
-    Brandon also enjoys reading, mountain biking, and flying drones in his free time.
+    [**<span style="font-size: 25px;">Brandon Sutherland</span>**](current_students/brandon_sutherland.md)
 </div>
 
 # Masters Students
