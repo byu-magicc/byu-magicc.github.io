@@ -1,6 +1,6 @@
 # Brandon Sutherland
 
-![](assets/brandon_sutherland.jpg){ width=350px }
+![](../assets/brandon_sutherland.jpg){ width=350px }
 
 ---
 
