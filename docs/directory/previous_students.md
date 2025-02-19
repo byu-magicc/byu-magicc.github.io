@@ -77,7 +77,7 @@
 
     **Email**: michael.antiproton@protonmail.com
 
-    -   ![](assets/seth_nielsen.jpeg){ width=200px }
+-   ![](assets/seth_nielsen.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Seth Nielsen</span>**
 
@@ -85,7 +85,7 @@
 
     **Email**: sethmnielsen@gmail.com
 
-    -   ![](assets/mark_petersen.jpeg){ width=200px }
+-   ![](assets/mark_petersen.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Mark Petersen</span>**
 
@@ -93,7 +93,7 @@
 
     **Email**: pet09034@byu.edu
 
-    -   ![](assets/jacob_willis.jpeg){ width=200px }
+-   ![](assets/jacob_willis.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Jacob Willis</span>**
 
@@ -101,7 +101,7 @@
 
     **Email**: jbwillis272@gmail.com
 
-    -   ![](assets/matthew_rydalch.jpeg){ width=200px }
+-   ![](assets/matthew_rydalch.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Matthew Rydalch</span>**
 
@@ -123,7 +123,7 @@
 
     **Degree**: BS Electrical Engineering
 
-    -   ![](assets/hayden_morgan.png){ width=200px }
+-   ![](assets/hayden_morgan.png){ width=200px }
 
     **<span style="font-size: 20px;">Hayden Morgan</span>**
 
@@ -131,7 +131,7 @@
 
     **Email**: haydenmmorgan@gmail.com
 
-    -   ![](assets/jesse_wynn.jpeg){ width=200px }
+-   ![](assets/jesse_wynn.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Jesse Wynn</span>**
 
@@ -139,7 +139,7 @@
 
     **Email**: wynnsquad@gmail.com
 
-    -   ![](assets/jared_wikle.png){ width=200px }
+-   ![](assets/jared_wikle.png){ width=200px }
 
     **<span style="font-size: 20px;">Jared Wikle</span>**
 
@@ -147,7 +147,7 @@
 
     **Email**: jkwikle@yahoo.com
 
-        -   ![](assets/liang_sun.jpeg){ width=200px }
+-   ![](assets/liang_sun.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Liang (Solomon) Sun</span>**
 
@@ -161,7 +161,7 @@
 
     **Email**: gas4@email.byu.edu
 
-        -   ![](assets/rajnikant_sharma.png){ width=200px }
+-   ![](assets/rajnikant_sharma.png){ width=200px }
 
     **<span style="font-size: 20px;">Rajnikant Sharma</span>**
 
@@ -169,7 +169,7 @@
 
     **Email**: rs535@et.byu.edu
 
-        -   ![](assets/jeff_saunders.jpeg){ width=200px }
+-   ![](assets/jeff_saunders.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Jeff Saunders</span>**
 
@@ -183,7 +183,7 @@
 
     **Email**: joshsakamaki@gmail.com
 
-        -   ![](assets/laith_sahawneh.jpeg){ width=200px }
+-   ![](assets/laith_sahawneh.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Laith Sahawneh</span>**
 
@@ -191,7 +191,7 @@
 
     **Email**: laith20@hotmail.com
 
-        -   ![](assets/dale_rowley.jpeg){ width=200px }
+-   ![](assets/dale_rowley.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Dale Rowley</span>**
 
@@ -199,7 +199,7 @@
 
     **Email**: dale.rowley@perceptekrobotics.com
 
-        -   ![](assets/andres_rodriguez.jpeg){ width=200px }
+-   ![](assets/andres_rodriguez.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Andres Rodriguez</span>**
 
@@ -207,7 +207,7 @@
 
     **Email**: andres.rodriguez@byu.edu
 
-        -   ![](assets/brandon_reimschissel.jpeg){ width=200px }
+-   ![](assets/brandon_reimschissel.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Brandon Reimschissel</span>**
 
@@ -215,7 +215,7 @@
 
     **Email**: brandon.reimschissel@gmail.com
 
-        -   ![](assets/joshua_redding.jpeg){ width=200px }
+-   ![](assets/joshua_redding.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Joshua Redding</span>**
 
@@ -223,7 +223,7 @@
 
     **Email**: jredding@byu.edu
 
-    -   ![](assets/jason_ready.jpeg){ width=200px }
+-   ![](assets/jason_ready.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Jason Ready</span>**
 
@@ -231,7 +231,7 @@
 
     **Email**: jmready@gmail.com
 
-    -   ![](assets/bryce_ready.jpeg){ width=200px }
+-   ![](assets/bryce_ready.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Bryce Ready</span>**
 
@@ -239,7 +239,7 @@
 
     **Email**: bryce.ready@gmail.com
 
-    -   ![](assets/eric_quist.jpeg){ width=200px }
+-   ![](assets/eric_quist.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Eric Quist</span>**
 
@@ -247,7 +247,7 @@
 
     **Email**: eric.quist@gmail.com
 
-    -   ![](assets/morgan_quigley.jpeg){ width=200px }
+-   ![](assets/morgan_quigley.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Morgan Quigley</span>**
 
@@ -255,7 +255,7 @@
 
     **Email**: morganquigley@gmail.com
 
-    -   ![](assets/bryce_pincock.jpeg){ width=200px }
+-   ![](assets/bryce_pincock.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Bryce Pincock</span>**
 
@@ -263,7 +263,7 @@
 
     **Email**: bpincock@yahoo.com
 
-    -   ![](assets/rhett_phillips.jpeg){ width=200px }
+-   ![](assets/rhett_phillips.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Rhett Phillips</span>**
 
@@ -275,7 +275,7 @@
 
     **Degree**: PhD Electrical Engineering
 
-    -   ![](assets/steve_osborne.jpeg){ width=200px }
+-   ![](assets/steve_osborne.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Steve Osborne</span>**
 
@@ -283,7 +283,7 @@
 
     **Email**: srosborne@gmail.com
 
-    -   ![](assets/paul_nyholm.jpeg){ width=200px }
+-   ![](assets/paul_nyholm.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Paul Nyholm</span>**
 
@@ -291,7 +291,7 @@
 
     **Email**: pwnyholm@gmail.com
 
-    -   ![](assets/peter_niedfeldt.jpeg){ width=200px }
+-   ![](assets/peter_niedfeldt.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Peter Niedfeldt</span>**
 
@@ -299,7 +299,7 @@
 
     **Email**: pcniedfeldt@gmail.com
 
-    -   ![](assets/joe_nichols.jpeg){ width=200px }
+-   ![](assets/joe_nichols.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Joe Nichols</span>**
 
@@ -307,7 +307,7 @@
 
     **Email**: nichols@byu.edu
 
-    -   ![](assets/derek_nelson.jpeg){ width=200px }
+-   ![](assets/derek_nelson.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Derek Nelson</span>**
 
@@ -315,7 +315,7 @@
 
     **Email**: derek.nelson@byu.net
 
-    -   ![](assets/jeffrey_millard.jpeg){ width=200px }
+-   ![](assets/jeffrey_millard.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Jeffrey Millard</span>**
 
@@ -323,7 +323,7 @@
 
     **Email**: jeffrey.d.millard@gmail.com
 
-    -   ![](assets/brett_millar.jpeg){ width=200px }
+-   ![](assets/brett_millar.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Brett Millar</span>**
 
@@ -331,7 +331,7 @@
 
     **Email**: brett.millar@gmail.com
 
-    -   ![](assets/justin_mackay.jpeg){ width=200px }
+-   ![](assets/justin_mackay.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Justin Mackay</span>**
 
@@ -339,7 +339,7 @@
 
     **Email**: 1.732mackay@gmail.com
 
-    -   ![](assets/john_macdonald.png){ width=200px }
+-   ![](assets/john_macdonald.png){ width=200px }
 
     **<span style="font-size: 20px;">John Macdonald</span>**
 
@@ -347,7 +347,7 @@
 
     **Email**: johnatbyu@hotmail.com
 
-    -   ![](assets/parker_lusk.jpeg){ width=200px }
+-   ![](assets/parker_lusk.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Parker Lusk</span>**
 
@@ -355,7 +355,7 @@
 
     **Email**: parkerclusk@gmail.com
 
-    -   ![](assets/benjamin_lewis.jpeg){ width=200px }
+-   ![](assets/benjamin_lewis.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Benjamin Lewis</span>**
 
@@ -363,7 +363,7 @@
 
     **Email**: benjamin.lewis.1000@gmail.com
 
-    -   ![](assets/robert_leishman.jpeg){ width=200px }
+-   ![](assets/robert_leishman.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Robert Leishman</span>**
 
@@ -371,7 +371,7 @@
 
     **Email**: rleish@gmail.com
 
-    -   ![](assets/jae_lee.jpeg){ width=200px }
+-   ![](assets/jae_lee.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Jae Lee</span>**
 
@@ -379,7 +379,7 @@
 
     **Email**: jaelee.byu@gmail.com
 
-    -   ![](assets/nathan_knoebel.jpeg){ width=200px }
+-   ![](assets/nathan_knoebel.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Nathan Knoebel</span>**
 
@@ -387,7 +387,7 @@
 
     **Email**: nbk4@byu.edu
 
-    -   ![](assets/robert_klaus.jpeg){ width=200px }
+-   ![](assets/robert_klaus.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Robert Klaus</span>**
 
@@ -395,7 +395,7 @@
 
     **Email**: robertklaus@byu.net
 
-    -   ![](assets/derek_kingston.jpeg){ width=200px }
+-   ![](assets/derek_kingston.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Derek Kingston</span>**
 
@@ -403,7 +403,7 @@
 
     **Email**: derek_kingston@hotmail.com
 
-    -   ![](assets/neil_johnson.jpeg){ width=200px }
+-   ![](assets/neil_johnson.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Jed Kelsey</span>**
 
@@ -411,7 +411,7 @@
 
     **Email**: neil_johnson@byu.edu
 
-    -   ![](assets/walt_johnson.jpeg){ width=200px }
+-   ![](assets/walt_johnson.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Walt Johnson</span>**
 
@@ -419,7 +419,7 @@
 
     **Email**: waltj@procurusuav.com
 
-    -   ![](assets/david_johansen.jpeg){ width=200px }
+-   ![](assets/david_johansen.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">David Johansen</span>**
 
@@ -427,7 +427,7 @@
 
     **Email**: davejohansen@gmail.com
 
-    -   ![](assets/joe_jackson.jpeg){ width=200px }
+-   ![](assets/joe_jackson.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Joe Jackson</span>**
 
@@ -441,14 +441,14 @@
 
     **Email**: jkiclimber@gmail.com
 
-    -   ![](assets/david_hubbard.jpeg){ width=200px }
+-   ![](assets/david_hubbard.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">David Hubbard</span>**
 
     **Degree**: MS Computer Science
 
 
-    -   ![](assets/ryan_holt.jpeg){ width=200px }
+-   ![](assets/ryan_holt.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Jason Howlett</span>**
 
@@ -463,7 +463,7 @@
     **Email**: benjamin.heiner@byu.net
 
 
-    -   ![](assets/steven_hansen.jpeg){ width=200px }
+-   ![](assets/steven_hansen.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Steven Hansen</span>**
 
@@ -472,7 +472,7 @@
     **Email**: stevenhansen01@yahoo.com
 
 
-    -   ![](assets/james_hall.jpeg){ width=200px }
+-   ![](assets/james_hall.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">James Hall</span>**
 
@@ -486,7 +486,7 @@
 
     **Email**: jeff_ferrin@hotmail.com
 
-    -   ![](assets/andrew_eldredge.jpeg){ width=200px }
+-   ![](assets/andrew_eldredge.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Andrew Eldredge</span>**
 
@@ -494,7 +494,7 @@
 
     **Email**: andrewe@byu.edu
 
-    -   ![](assets/joe_egbert.jpeg){ width=200px }
+-   ![](assets/joe_egbert.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Joe Egbert</span>**
 
@@ -502,7 +502,7 @@
 
     **Email**: jegbert1@gmail.com
 
-    -   ![](assets/nathan_edwards.jpeg){ width=200px }
+-   ![](assets/nathan_edwards.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Nathan Edwards</span>**
 
@@ -510,7 +510,7 @@
 
     **Email**: nathanedwards8@gmail.com
 
-    -   ![](assets/matthew_duffield.png){ width=200px }
+-   ![](assets/matthew_duffield.png){ width=200px }
 
     **<span style="font-size: 20px;">Matthew Duffield</span>**
 
@@ -518,7 +518,7 @@
 
     **Email**: matt.o.duffield.bsm@gmail.com
 
-    -   ![](assets/patrick_defranco.jpeg){ width=200px }
+-   ![](assets/patrick_defranco.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Patrick DeFranco</span>**
 
@@ -526,7 +526,7 @@
 
     **Email**: pacadef@gmail.com
 
-    -   ![](assets/reed_christiansen.jpeg){ width=200px }
+-   ![](assets/reed_christiansen.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Reed Christiansen</span>**
 
@@ -534,7 +534,7 @@
 
     **Email**: reedchristiansen@gmail.com
 
-    -   ![](assets/brandon_carroll.jpeg){ width=200px }
+-   ![](assets/brandon_carroll.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Brandon Carroll</span>**
 
@@ -542,7 +542,7 @@
 
     **Email**: ctnodnarb@yahoo.com
 
-    -   ![](assets/brandon_cannon.png){ width=200px }
+-   ![](assets/brandon_cannon.png){ width=200px }
 
     **<span style="font-size: 20px;">Brandon Cannon</span>**
 
@@ -550,7 +550,7 @@
 
     **Email**: brandonjcan@gmail.com
 
-    -   ![](assets/brandon_call.jpeg){ width=200px }
+-   ![](assets/brandon_call.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Brandon Call</span>**
 
@@ -558,7 +558,7 @@
 
     **Email**: brandoncall@gmail.com
 
-    -   ![](assets/everett_bryan.jpeg){ width=200px }
+-   ![](assets/everett_bryan.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Everett Bryan</span>**
 
@@ -566,7 +566,7 @@
 
     **Email**: eabryan@byu.edu
 
-    -   ![](assets/dallin_briggs.jpeg){ width=200px }
+-   ![](assets/dallin_briggs.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Dallin Briggs</span>**
 
@@ -574,7 +574,7 @@
 
     **Email**: dallinbriggs@gmail.com
 
-    -   ![](assets/justin_bradley.jpeg){ width=200px }
+-   ![](assets/justin_bradley.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Justin Bradley</span>**
 
@@ -582,7 +582,7 @@
 
     **Email**: jmb275@et.byu.edu
 
-    -   ![](assets/matt_blake.jpeg){ width=200px }
+-   ![](assets/matt_blake.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">Matt Blake</span>**
 
@@ -790,12 +790,6 @@
 ## 2003
 
 <div class="grid cards" markdown>
-**<span style="font-size: 20px;">Steve Olson</span>**
-
-    **Degree**: MS Mechanical Engineering
-
-    **Email**: olsonsa@ee.byu.edu
-
 
 -   ![](assets/jason_howlett.jpeg){ width=200px }
 
@@ -804,6 +798,15 @@
     **Degree**: MS Mechanical Engineering
 
     **Email**: howlett@et.byu.edu
+
+-   **<span style="font-size: 20px;">Steve Olson</span>**
+
+    **Degree**: MS Mechanical Engineering
+
+    **Email**: olsonsa@ee.byu.edu
+
+
+
 </div>
 
 
@@ -851,12 +854,13 @@
 ## 2000
 
 <div class="grid cards" markdown>
-    **<span style="font-size: 20px;">Brett Young</span>**
+    
+-   **<span style="font-size: 20px;">Brett Young</span>**
 
     **Degree**: MS Electrical Engineering
 
     **Email**: brett_j_young@west.raytheon.com
-
+    
     **<span style="font-size: 20px;">Jonathan Lawton</span>**
 
     **Degree**: PhD Electrical Engineering
