@@ -155,7 +155,7 @@
 
     **Email**: sun.liang@byu.edu
 
-    **<span style="font-size: 20px;">Gerrit Sorensen</span>**
+-    **<span style="font-size: 20px;">Gerrit Sorensen</span>**
 
     **Degree**: MS Computer Engineering
 
@@ -177,7 +177,7 @@
 
     **Email**: saunders.jeff@gmail.com
 
-    **<span style="font-size: 20px;">Josh Sakamaki</span>**
+-    **<span style="font-size: 20px;">Josh Sakamaki</span>**
 
     **Degree**: MS Electrical Engineering
 
@@ -435,7 +435,7 @@
 
     **Email**: joseph_jackson@byu.edu
 
-    **<span style="font-size: 20px;">Kyle Ingersoll</span>**
+-    **<span style="font-size: 20px;">Kyle Ingersoll</span>**
 
     **Degree**: BS Mechanical Engineering: Mechatronics
 
@@ -456,7 +456,7 @@
 
     **Email**: holt.ryan@gmail.com
 
-    **<span style="font-size: 20px;">Benhamin Heiner</span>**
+-    **<span style="font-size: 20px;">Benjamin Heiner</span>**
 
     **Degree**: MS Electrical Engineering
 
@@ -480,7 +480,7 @@
 
     **Email**: hallatkj@gmail.com
 
-    **<span style="font-size: 20px;">Jeff Ferrin</span>**
+-    **<span style="font-size: 20px;">Jeff Ferrin</span>**
 
     **Degree**: PhD Mechanical Engineering
 
@@ -843,7 +843,7 @@
 
     **Degree**: MS Electrical Engineering
 
-    **<span style="font-size: 20px;">Kevin Judd</span>**
+-    **<span style="font-size: 20px;">Kevin Judd</span>**
 
     **Degree**: MS Electrical Engineering
 
@@ -861,13 +861,13 @@
 
     **Email**: brett_j_young@west.raytheon.com
     
-    **<span style="font-size: 20px;">Jonathan Lawton</span>**
+-    **<span style="font-size: 20px;">Jonathan Lawton</span>**
 
     **Degree**: PhD Electrical Engineering
 
     **Email**: jonathan_r_lawton@raytheon.com
 
-    **<span style="font-size: 20px;">Chad Humberstone</span>**
+-    **<span style="font-size: 20px;">Chad Humberstone</span>**
 
     **Degree**: MS Mechanical Engineering
 
@@ -878,13 +878,14 @@
 ## 1999
 
 <div class="grid cards" markdown>
+
 -   **<span style="font-size: 20px;">Chris Bailey</span>**
 
     **Degree**: MD Electrical Engineering
 
     **Email**: cbailey@orem.verio.net
 
-    **<span style="font-size: 20px;">Tim Gold</span>**
+-    **<span style="font-size: 20px;">Tim Gold</span>**
 
     **Degree**: MS Mechanical Engineering
 
