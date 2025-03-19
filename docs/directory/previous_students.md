@@ -633,6 +633,11 @@
 ## 2019
 
 <div class="grid cards" markdown>
+-   **<span style="font-size: 20px;">Jerel Nielson</span>**
+
+    **Degree**: PhD Electrical Engineering
+
+    **Email**: jerel.nielsen@gmail.com
 </div>
 
 
