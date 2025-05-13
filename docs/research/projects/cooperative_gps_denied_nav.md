@@ -9,8 +9,21 @@ Our research includes using factor graphs for decentralized multi-agent estimati
 - [Center for Autonomous Air Mobility & Sensing](https://caams.center/)
 - [Air Force Research Laboratory](https://www.afrl.af.mil/)
 
-## Papers
+## Personnel
+
+### Students
+- Brendon Forsgren
+- Chad Samuelson
+- Kalliyan Velasco
+- [Brandon Sutherland](../../directory/students/brandon_sutherland.md)
+- Gabe Snow
+- Jacob Moore
+
+### Faculty
+- [Tim McLain](../../directory/faculty.md)
+- Joshua Mangelson
+
+## Paper
 
 - [Group-k Consistent Measurement Set Maximization for Robust Outlier Detection](https://doi.org/10.1109/IROS47612.2022.9982057)
 
-- [Student](../../directory/students/brandon_sutherland.md)
