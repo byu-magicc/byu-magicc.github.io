@@ -13,3 +13,4 @@ Our research includes using factor graphs for decentralized multi-agent estimati
 
 - [Group-k Consistent Measurement Set Maximization for Robust Outlier Detection](https://doi.org/10.1109/IROS47612.2022.9982057)
 
+- [Student](../../directory/students/brandon_sutherland.md)

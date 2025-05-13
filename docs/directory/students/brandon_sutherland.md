@@ -18,7 +18,7 @@ Brandon first became interested in aerial robotics when he learned to build and 
 
 Brandon has been involved in a number of projects in the lab, most recently ROSflight as an undergraduate and now Cooperative GPS-Denied Navigation as a doctoral student. Brandon is currently working on non-invasive methods of adopting cooperative multi-agent navigation systems onto existing Kalman Filter based single-agent systems.
 
-- [Cooperative GPS Navigation](../../research/current_projects/cooperative_gps_denied_nav.md)
+- [Cooperative GPS Navigation](../../research/projects/cooperative_gps_denied_nav.md)
 - [ROSflight](https://rosflight.org/)
 
 ## Papers

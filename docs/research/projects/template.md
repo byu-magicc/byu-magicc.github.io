@@ -6,10 +6,17 @@ Include any pictures, videos, slides, posters, etc. you want here. Small files c
 
 ## Sponsors
 
-List any sponsors and relevant links here.
+List any sponsors and relevant links here. Also feel free to summarize their involvement if you want.
 
 - [Center for Autonomous Air Mobility & Sensing](https://caams.center/)
 - [Sponsor Name Here]({Sponsor URL here})
+
+## Personel
+
+List anyone involved with the project here. You can even link to their individual webpages if you want.
+
+- [Student]()
+- Faculty
 
 ## Papers
 

@@ -1,35 +1,35 @@
 <div class="grid cards" markdown>
 
--   [**Indoor Navigation**](past_projects/indoor_navigation.md)
+-   [**Indoor Navigation**](projects/indoor_navigation.md)
 
--   [**Target Tracking**](past_projects/target_tracking.md)
+-   [**Target Tracking**](projects/target_tracking.md)
 
--   [**GPS Denied Navigation**](past_projects/gps_denied_navigation.md)
+-   [**GPS Denied Navigation**](projects/gps_denied_navigation.md)
 
--   [**Sense and Avoid for Unmanned Aircraft Systems**](past_projects/sense_and_avoid_for_unmanned_aircraft_systems.md)
+-   [**Sense and Avoid for Unmanned Aircraft Systems**](projects/sense_and_avoid_for_unmanned_aircraft_systems.md)
 
--   [**Tailsitter**](past_projects/tailsitter.md)
+-   [**Tailsitter**](projects/tailsitter.md)
 
--   [**Aerial Recovery**](past_projects/aerial_recovery.md)
+-   [**Aerial Recovery**](projects/aerial_recovery.md)
 
--   [**Autopilot Design**](past_projects/autopilot_design.md)
+-   [**Autopilot Design**](projects/autopilot_design.md)
 
--   [**AUVSI Senior Project**](past_projects/auvsi_senior_project.md)
+-   [**AUVSI Senior Project**](projects/auvsi_senior_project.md)
 
--   [**Commercialization**](past_projects/commercialization.md)
+-   [**Commercialization**](projects/commercialization.md)
 
--   [**Cooperative Control with Learning**](past_projects/cooperative_control_with_learning.md)
+-   [**Cooperative Control with Learning**](projects/cooperative_control_with_learning.md)
 
--   [**Fault Detection**](past_projects/fault_detection.md)
+-   [**Fault Detection**](projects/fault_detection.md)
 
--   [**Cooperative Control**](past_projects/cooperative_control.md)
+-   [**Cooperative Control**](projects/cooperative_control.md)
 
--   [**Geo-referenced Mosaics**](past_projects/geo_referenced_mosaics.md)
+-   [**Geo-referenced Mosaics**](projects/geo_referenced_mosaics.md)
 
--   [**Image-directed Control**](past_projects/image_directed_control.md)
+-   [**Image-directed Control**](projects/image_directed_control.md)
 
--   [**Path Planning and Trajectory Generation**](past_projects/path_planning_and_trajectory_generation.md)
+-   [**Path Planning and Trajectory Generation**](projects/path_planning_and_trajectory_generation.md)
 
--   [**Tactical Seeability**](past_projects/tactical_seeability.md)
+-   [**Tactical Seeability**](projects/tactical_seeability.md)
 
 </div>
