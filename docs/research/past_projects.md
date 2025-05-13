@@ -1,5 +1,13 @@
 <div class="grid cards" markdown>
 
+-   [**Indoor Navigation**](past_projects/indoor_navigation.md)
+
+-   [**Target Tracking**](past_projects/target_tracking.md)
+
+-   [**GPS Denied Navigation**](past_projects/gps_denied_navigation.md)
+
+-   [**Sense and Avoid for Unmanned Aircraft Systems**](past_projects/sense_and_avoid_for_unmanned_aircraft_systems.md)
+
 -   [**Tailsitter**](past_projects/tailsitter.md)
 
 -   [**Aerial Recovery**](past_projects/aerial_recovery.md)
