@@ -2,4 +2,5 @@ mkdocs
 mkdocs-exclude
 mkdocs-material
 mkdocs-glightbox
+mkdocs-video
 pymdown-extensions
