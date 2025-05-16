@@ -20,6 +20,9 @@ List anyone involved with the project here. You can even link to their individua
 - [Student](../../directory/students/template.md)
 - [Faculty](../../directory/faculty.md)
 
+## Significant results
+Include bullet items of significant outcomes of the project. If you list a new contribution in a paper or thesis, include a description of of that contribution here.
+
 ## Media
 
 ![Example picture](https://dummyimage.com/600x400/eee/aaa){ width="500" }
@@ -27,7 +30,8 @@ List anyone involved with the project here. You can even link to their individua
 Notice the `embed` link here. You'll want to copy the part of your YouTube link between `.../watch?v=` and `&...` into the link segment right after `.../embed/`. The original link for this video was `https://www.youtube.com/watch?v=JMWN0OI-7pA&list=PLYgEzAHuTvsB92GTxdTiCdQNb5b1RMUl8&index=4`.
 ![type:video](https://www.youtube.com/embed/JMWN0OI-7pA)
 
-## Papers
+## Papers, Theses, and Presentations
 
 - [Paper Name Here]({DOI line here})
+- [Presentation Name Here]({link to powerpoint presentation})
 
