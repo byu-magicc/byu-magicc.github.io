@@ -56,6 +56,8 @@
 
     **Degree**: PhD Electrical and Computer Engineering
 
+    **Dissertation**:  Continuous-time Trajectory Estimation and its Application to Sensor Calibration and Differentially Flat Systems
+
 </div>
 
 
@@ -120,6 +122,8 @@
 
     **Degree**: PhD Electrical and Computer Engineering
 
+    **Dissertation**: A Geometric Approach to Multiple Target Tracking Using Lie Groups
+
     **Email**: pet09034@byu.edu
 
 -   ![](assets/seth_nielsen.jpeg){ width=200px }
@@ -151,6 +155,8 @@
 -   **<span style="font-size: 20px;">Jerel Nielson</span>**
 
     **Degree**: PhD Electrical Engineering
+
+    **Dissertation**: Robust Visual-Inertial Navigation and Control of Fixed-Wing and Multirotor Aircraft
 
     **Email**: jerel.nielsen@gmail.com
 
@@ -238,6 +244,8 @@
 
     **Degree**: PhD Electrical Engineering
 
+    **Dissertation**: Relative Navigation of Micro Air Vehicles in GPS-Degraded Environments
+
 -   ![](assets/jared_wikle.png){ width=200px }
 
     **<span style="font-size: 20px;">Jared Wikle</span>**
@@ -257,6 +265,8 @@
 
     **Degree**: PhD Electrical Engineering
 
+    **Dissertation**: Modeling and Control of a Tailsitter with a Ducted Fan
+
     **Email**: matt.argyle@gmail.com
 
 -    **<span style="font-size: 20px;">Josh Sakamaki</span>**
@@ -270,6 +280,8 @@
     **<span style="font-size: 20px;">Laith Sahawneh</span>**
 
     **Degree**: PhD Electrical Engineering
+
+    **Dissertation**: Airborne Collision Detection and Avoidance for Small UAS Sense and Avoid Systems
 
     **Email**: laith20@hotmail.com
 
@@ -299,6 +311,8 @@
     **<span style="font-size: 20px;">Eric Quist</span>**
 
     **Degree**: PhD Electrical Engineering
+
+    **Dissertation**: UAV Navigation and Radar Odometry
 
     **Email**: eric.quist@gmail.com
 
@@ -357,6 +371,8 @@
     **<span style="font-size: 20px;">Peter Niedfeldt</span>**
 
     **Degree**: PhD Electrical Engineering
+
+    **Dissertation**: Recursive-RANSAC: A Novel Algorithm for Tracking Multiple Targets in Clutter
 
     **Email**: pcniedfeldt@gmail.com
 
@@ -461,6 +477,8 @@
 
     **Degree**: PhD Electrical Engineering
 
+    **Dissertation**: Efficient Estimation for Small Multi-Rotor Air Vehicles Operating in Unknown, Indoor Environments
+
     **Email**: johnatbyu@hotmail.com
 
 -   ![](assets/brandon_carroll.jpeg){ width=200px }
@@ -476,6 +494,8 @@
     **<span style="font-size: 20px;">Liang (Solomon) Sun</span>**
 
     **Degree**: PhD Electrical Engineering
+
+    **Dissertation**: Dynamic Modeling, Trajectory Generation and Tracking, Simulations and Experiements of Aerially Towed Cable Systems for Aerial Recovery of Miniature Aerial Vehicles
 
     **Email**: sun.liang@byu.edu
 
@@ -504,11 +524,15 @@
 
     **Degree**: PhD Electrical Engineering
 
+    **Dissertation**: Bearing-only Cooperative Localization and Path Planning for Ground and Aerial Robots
+
     **Email**: rs535@et.byu.edu
 
 -   **<span style="font-size: 20px;">Huili Yu</span>**
 
     **Degree**: PhD Electrical Engineering
+
+    **Dissertation**: Vision-based Path Planning, Collision Avoidance, and Target Tracking for Unmanned Air and Ground Vehicles in Urban Environments
 
 -   **<span style="font-size: 20px;">Caleb Chamberlain</span>**
 
@@ -546,6 +570,8 @@
 
     **Degree**: PhD Electrical Engineering
 
+    **Dissertation**: Decentralized Estimation Using Information Consensus Filters with a Multi-Static UAV Radar Tracking System
+
     **Email**: dwc8@email.byu.edu
 
 -   ![](assets/jeff_saunders.jpeg){ width=200px }
@@ -553,6 +579,8 @@
     **<span style="font-size: 20px;">Jeff Saunders</span>**
 
     **Degree**: PhD Electrical Engineering
+
+    **Dissertation**: Obstacle Avoidance, Visual Automatic Target Tracking, and Task Allocation for Small Unmanned Air Vehicles
 
     **Email**: saunders.jeff@gmail.com
 
@@ -651,6 +679,8 @@
     **<span style="font-size: 20px;">Derek Kingston</span>**
 
     **Degree**: PhD Electrical Engineering
+
+    **Dissertation**: Decentralized Control of Multiple UAVs for Perimeter and Target Surveillance
 
     **Email**: derek_kingston@hotmail.com
 
@@ -839,6 +869,8 @@
 
     **Degree**: PhD Electrical Engineering
 
+    **Dissertation**: Consensus Seeking, Formation Keeping, and Trajectory Tracking in Multiple Vehicle Cooperative Control
+
     **Email**: wren@engineering.usu.edu
 
 -   ![](assets/joshua_hintze.jpeg){ width=200px }
@@ -911,6 +943,8 @@
 
     **Degree**: PhD Mechanical Engineering
 
+    **Dissertation**:    Satisficing Control for Nonlinear Systems
+
 </div>
 
 
@@ -945,6 +979,8 @@
 -   **<span style="font-size: 20px;">Jonathan Lawton</span>**
 
     **Degree**: PhD Electrical Engineering
+
+    **Dissertation**:  A behavior-based approach for spacecraft formation 
 
     **Email**: jonathan_r_lawton@raytheon.com
 
