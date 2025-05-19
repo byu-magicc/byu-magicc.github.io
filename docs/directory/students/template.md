@@ -24,3 +24,8 @@ Give a brief overview about your past and current research. Then make sure to li
 - [Paper Name Here]({DOI link here})
 - [Paper Name Here]({DOI link here})
 - [Paper Name Here]({DOI link here})
+
+## {Other header name}
+
+You can add other sections here if you'd like, but put interesting content on your project page if it is related to a project, creating a page for your project if necessary. In other words, only personal projects would end up here.
+
