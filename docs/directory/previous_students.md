@@ -98,6 +98,8 @@
 
     **Degree**: MS Electrical and Computer Engineering
 
+    **Thesis**: "Trajectory Generation and Tracking Control for Winged Electric Vertical Takeoff and Landing Aircraft,"
+
     **Email**: jbwillis272@gmail.com
 
 -   ![](assets/matthew_rydalch.jpeg){ width=200px }
@@ -113,6 +115,8 @@
     **<span style="font-size: 20px;">Hayden Morgan</span>**
 
     **Degree**: MS Electrical and Computer Engineering
+	
+    **Thesis**: "Small-Target Detection and Observation with Vision-Enabled Fixed-Wing Unmanned Aircraft Systems," 
 
     **Email**: haydenmmorgan@gmail.com
 
@@ -131,6 +135,8 @@
     **<span style="font-size: 20px;">Seth Nielsen</span>**
 
     **Degree**: MS Electrical and Computer Engineering
+
+    **Thesis**: "A Visually Realistic Simulator for Autonomous eVTOL Aircraft,"
 
     **Email**: sethmnielsen@gmail.com
 
@@ -184,6 +190,8 @@
 
     **Degree**: MS Electrical and Computer Engineering
 
+    **Thesis**: "Multiple Agent Target Tracking in GPS-Denied Environments,"
+
 </div>
 
 
@@ -205,6 +213,8 @@
 
     **Degree**: MS Electrical Engineering
 
+    **Thesis**: "Path Planning for Unmanned Air and Ground Vehicles in Urban Environments,"
+
     **Email**: parkerclusk@gmail.com
 
 -   ![](assets/jae_lee.jpeg){ width=200px }
@@ -212,6 +222,8 @@
     **<span style="font-size: 20px;">Jae Lee</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: Nonlinear Control Framework for Gimbal and Multirotor in Target tracking,
 
     **Email**: jaelee.byu@gmail.com
 
@@ -227,6 +239,8 @@
     **<span style="font-size: 20px;">Jeffrey Millard</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: "Multiple Target Tracking in Realistic Environments Using Recursive-RANSAC in a Data Fusion Framework,"
 
     **Email**: jeffrey.d.millard@gmail.com
 
@@ -273,6 +287,8 @@
 
     **Degree**: MS Electrical Engineering
 
+    **Thesis**: "Cooperative Estimation for a Vision-Based Target Tracking System,"
+
     **Email**: joshsakamaki@gmail.com
 
 -   ![](assets/laith_sahawneh.jpeg){ width=200px }
@@ -290,6 +306,8 @@
     **<span style="font-size: 20px;">Benjamin Lewis</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: "A Visual Return-to-Home System for GPS-Denied Flight,"
 
     **Email**: benjamin.lewis.1000@gmail.com
 
@@ -336,6 +354,7 @@
 
     **Degree**: MS Electrical Engineering
 
+    **Thesis**: Detecting and Tracking Moving Objects from a Small Unmanned Air Vehicle,
     **Email**: pacadef@gmail.com
 
 -   ![](assets/dallin_briggs.jpeg){ width=200px }
@@ -349,6 +368,8 @@
 -   **<span style="font-size: 20px;">James Ingersoll</span>**
 
     **Degree**: MS Electrical Engineering
+    
+    **Thesis**: "Vision Based Multiple Target Tracking Using Recursive RANSAC,"
 
 </div>
 
@@ -437,11 +458,16 @@
 
     **Degree**: MS Electrical Engineering
 
+    **Thesis**: "Cooperative Target Tracking Enhanced with the Sequence Memoizer,"
+
     **Email**: eabryan@byu.edu
 
 -   **<span style="font-size: 20px;">Stephen Quebe</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: "Modeling, Parameter Estimation, and Gaze Control of Unmanned Indoor Quadrotor,"
+
 </div>
 
 
@@ -468,6 +494,8 @@
     **<span style="font-size: 20px;">Bryce Pincock</span>**
 
     **Degree**: MS Electrical Engineering
+  
+    **Thesis**: "Real-Time Target Following Using an Unmanned Rotorcraft with a Laser Rangefinder,"
 
     **Email**: bpincock@yahoo.com
 
@@ -487,6 +515,8 @@
 
     **Degree**: MS Electrical Engineering
 
+    **Thesis**: "Using Motion Fields to Estimate Video Utility and Detect GPS Spoofing,"
+
     **Email**: ctnodnarb@yahoo.com
 
 -   ![](assets/liang_sun.jpeg){ width=200px }
@@ -502,6 +532,8 @@
 -   **<span style="font-size: 20px;">Kevin Meier</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: "Developing a Guidance Law for a Small-Scale Controllable Projectile Using Backstepping and Adaptive Control Techniques and a Hardware System Implementation for a UAV and a UGV to Track a Moving Ground Target,"
 
 </div>
 
@@ -537,6 +569,8 @@
 -   **<span style="font-size: 20px;">Caleb Chamberlain</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: "System Identification, State Estimation, and Control of Unmanned Aerial Robots,"
 
 </div>
 
@@ -619,6 +653,8 @@
 
     **Degree**: MS Electrical Engineering
 
+    **Thesis**: "Path Planning for Unmanned Air and Ground Vehicles in Urban Environments,"
+
     **Email**: byudrew@gmail.com
 
 -   ![](assets/evan_anderson.jpg){ width=200px }
@@ -680,6 +716,8 @@
 
     **Degree**: PhD Electrical Engineering
 
+    **Thesis**: "Implementation Issues of Real-Time Trajectory Generation of Small UAVs,"
+
     **Dissertation**: Decentralized Control of Multiple UAVs for Perimeter and Target Surveillance
 
     **Email**: derek_kingston@hotmail.com
@@ -689,6 +727,8 @@
     **<span style="font-size: 20px;">Joe Jackson</span>**
 
     **Degree**: MS Mechanical Engineering
+
+    **Thesis**: "THESIS TITLE HERE"
 
     **Email**: joseph_jackson@byu.edu
 
@@ -703,6 +743,8 @@
     **<span style="font-size: 20px;">Joe Egbert</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: "Low-Altitude Road Following Using Strap-Down Cameras on Miniature Aerial Vehicles,"
 
     **Email**: jegbert1@gmail.com
 
@@ -720,6 +762,8 @@
 
     **Degree**: MS Electrical Engineering
 
+    **Thesis**: "Transition Between Hover and Level Flight for a Tailsitter UAV,"
+
     **Email**: srosborne@gmail.com
 
 -   ![](assets/ryan_holt.jpeg){ width=200px }
@@ -727,6 +771,8 @@
     **<span style="font-size: 20px;">Jason Howlett</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: "Three Enabling Technologies for Vision-Based Forest-Fire Perimeter Surveillance Using Multiple Unmanned Aerial Systems,"
 
     **Email**: holt.ryan@gmail.com
 
@@ -743,11 +789,15 @@
 
     **Degree**: MS Electrical Engineering
 
+    **Thesis**: "Adaptive Control of Micro Unmanned Air Vehicles,"
+
 -   ![](assets/david_johansen.jpeg){ width=200px }
 
     **<span style="font-size: 20px;">David Johansen</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: "Video Stabilization and Object Localization using Feature Tracking with Small UAV Video,"
 
     **Email**: davejohansen@gmail.com
 
@@ -764,6 +814,8 @@
     **<span style="font-size: 20px;">Brandon Call</span>**
 
     **Degree**: MS Mechanical Engineering
+J
+    **Thesis**: "Obstacle Avoidance for Unmanned Air Vehicles,"
 
     **Email**: brandoncall@gmail.com
 
@@ -782,6 +834,8 @@
 -   **<span style="font-size: 20px;">Joshua Matthews</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: "Adaptive Control of Micro Unmanned Air Vehicles,"
 
 </div>
 
@@ -834,6 +888,8 @@
 
     **Degree**: MS Electrical Engineering
 
+    **Thesis**: "Design and Implementation of the Kestrel Autopilot,"
+
     **Email**: waltj@procurusuav.com
 
 -   ![](assets/matt_blake.jpeg){ width=200px }
@@ -879,6 +935,8 @@
 
     **Degree**: MS Electrical Engineering
 
+    **Thesis**: "Autonomous Landing of a Rotary Unmanned Aerial Vehicle in a Non-Cooperative Environment Using Machine Vision,"
+
     **Email**: jh279@email.byu.edu
 
 -   ![](assets/reed_christiansen.jpeg){ width=200px }
@@ -886,6 +944,8 @@
     **<span style="font-size: 20px;">Reed Christiansen</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: "Design of an Autopilot for Small Unmanned Aerial Vehicles,"
 
     **Email**: reedchristiansen@gmail.com
 
@@ -921,6 +981,8 @@
 
     **Degree**: MS Electrical Engineering
 
+    **Thesis**: "Extremal Control and Unmanned Air Vehicle Trajectory Generation,"
+
     **Email**: eandersn@ee.byu.edu
 
 -   ![](assets/peter_jones.jpeg){ width=200px }
@@ -943,7 +1005,9 @@
 
     **Degree**: PhD Mechanical Engineering
 
-    **Dissertation**:    Satisficing Control for Nonlinear Systems
+    **Thesis**: "Nonlinear controller comparison on a benchmark system,"
+
+    **Dissertation**: Satisficing Control for Nonlinear Systems
 
 </div>
 
@@ -957,6 +1021,8 @@
     **<span style="font-size: 20px;">Jed Kelsey</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: "The MAGICC Mobile Robot Toolbox (MMRT): A Simulink-based Control and Coordination Toolbox for Multiple Robotic Agents,"
 
 -    **<span style="font-size: 20px;">Kevin Judd</span>**
 
@@ -973,6 +1039,8 @@
 -   **<span style="font-size: 20px;">Brett Young</span>**
 
     **Degree**: MS Electrical Engineering
+
+    **Thesis**: "Mobile robots: coordination and control,"
 
     **Email**: brett_j_young@west.raytheon.com
 
@@ -1035,4 +1103,3 @@
     **Degree**: PhD Electrical Engineering
 
 </div>
-
