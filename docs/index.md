@@ -1,4 +1,4 @@
-The BYU <b>M</b>ultiple <b>AG</b>ent <b>I</b>ntelligent <b>C</b>oordination and <b>C</b>ontrol <b>Lab</b>, also known as the **MAGICC Lab** focuses on research involving navigation, guidance, and control of teams of autonomous Unmanned Aerial Vehicles (UAVs). The lab was founded by professors Randy Beard and Timothy McLain in 1999 and is located in room 146 of the BYU Engineering Building.
+The BYU <b>M</b>ultiple <b>AG</b>ent <b>I</b>ntelligent <b>C</b>oordination and <b>C</b>ontrol <b>Lab</b>, also known as the **MAGICC Lab** focuses on research involving navigation, guidance, and control of teams of autonomous Unmanned Aerial Vehicles (UAVs). The lab was founded by professors Randy Beard and Tim McLain in 1999 and is located in room 146 of the BYU Engineering Building.
 
 ![](assets/magicc_logo.svg)
 
