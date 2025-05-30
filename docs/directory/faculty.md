@@ -46,7 +46,10 @@
 
     **Email:** james_usevitch@byu.edu
 
-    **Website:** [https://ece.byu.edu/directory/james-usevitch](https://ece.byu.edu/directory/james-usevitch)
+    **Websites:**
+
+    * [https://ece.byu.edu/directory/james-usevitch](https://ece.byu.edu/directory/james-usevitch)
+    * [www.usevitch.com](https://usevitch.com/)
 
 </div>
 
