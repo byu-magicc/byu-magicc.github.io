@@ -22,7 +22,7 @@ List anyone involved with the project here. Please link all students and faculty
 
 ## Significant Results
 
-Include bullet items of significant outcomes of the project. If you list a new contribution in a paper or thesis, include a description of of that contribution here.
+Include bullet items of significant outcomes of the project. If you list a new contribution in a paper or thesis, include a description of that contribution here.
 
 ## Photos
 
@@ -31,6 +31,7 @@ Include bullet items of significant outcomes of the project. If you list a new c
 ## Videos
 
 Notice the `embed` link here. You'll want to copy the part of your YouTube link between `.../watch?v=` and `&...` into the link segment right after `.../embed/`. The original link for this video was `https://www.youtube.com/watch?v=JMWN0OI-7pA&list=PLYgEzAHuTvsB92GTxdTiCdQNb5b1RMUl8&index=4`.
+
 ![type:video](https://www.youtube.com/embed/JMWN0OI-7pA)
 
 ## Papers, Theses, and Presentations
