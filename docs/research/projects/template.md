@@ -1,6 +1,6 @@
 # Project Name
 
-Write a mid-length summary here. We want this to give a good overview of the project's work and focus, but not be so in-depth that it starts to sound like a publication.
+Write a mid-length summary here. We want this to give a good overview of the project's work and focus, but not be so in-depth that it starts to sound like a publication. Many website visitors are just going to skim this page, so we want the most important information easily presented. As such, we ask that EACH PROJECT HAS AT LEAST ONE VISUAL (more is better) describing their project.
 
 Include any pictures, videos, slides, posters, etc. you want. Small files can be included directly in the `docs/research/projects/assets/{your project name here}` folder (less than 10mb in size), but anything larger should be put elsewhere (YouTube, Box) and embedded externally. Also, MAKE SURE YOU ARE ALLOWED TO SHARE ANY FILES PUBLICLY BEFORE POSTING THEM HERE.
 
