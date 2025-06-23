@@ -35,6 +35,9 @@ TEMPLATE
 # Masters Students
 
 <div class="grid cards" markdown>
+-   ![](assets/jacob_moore.jpg){ width=300px }
+
+    [**<span style="font-size: 25px;">Jacob Moore</span>**](students/jacob_moore.md)
 
 </div>
 
