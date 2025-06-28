@@ -19,9 +19,11 @@ Jacob is passionate about solving hard problems in robotics, flying drones, mech
 ## Research
 
 ### Current Projects
-Jacob is interested in enhancing safe robotic autonomy, especially in a multi-agent setting.
+Jacob is interested in enhancing robotic autonomy safely, especially in a multi-agent setting.
+A current focus is consistent and accurate localization and estimation.
+
 Current projects include ROSflight, an open-source autopilot aiming to streamline the research process, especially for eVTOL aircraft.
-He is also working on a multi-agent localization project, enhancing localization accuracy in GPS-denied regions even when communication is constrained.
+He is also working on a project enhancing localization accuracy in GPS-denied regions even when communication is constrained.
 
 Please reach out with any questions you may have!
 
@@ -31,10 +33,8 @@ Please reach out with any questions you may have!
 ### Past Projects
 Jacob assisted other research efforts including GPS-denied landing of an eVTOL aircraft with infrared beacons, precision-landing of a UAV on a moving boat, and interception of a fast-moving intruder with a swarm of slow-moving agents.
 
-TODO: Continue here with the project pages.
-
-- [Infrared-Constellation-Aided Landing of eVTOL Aircraft](../../research/current_projects/{project_name_here}.md)
-- [Robust Landing for UAVs in Maritime Environments](../../research/current_projects/{project_name_here}.md)
+- [Infrared-Constellation-Aided Landing of eVTOL Aircraft](../../research/projects/infrared_landing_evtol_aircraft.md)
+- [Robust Landing for UAVs in Maritime Environments](../../research/projects/boatlanding.md)
 
 ## Papers
 
