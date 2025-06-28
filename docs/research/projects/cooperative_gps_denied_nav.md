@@ -17,7 +17,7 @@ Our research includes using factor graphs for decentralized multi-agent estimati
 - Kalliyan Velasco
 - [Brandon Sutherland](../../directory/students/brandon_sutherland.md)
 - Gabe Snow
-- Jacob Moore
+- [Jacob Moore](../../directory/students/jacob_moore.md)
 
 ### Faculty
 - [Tim McLain](../../directory/faculty.md)

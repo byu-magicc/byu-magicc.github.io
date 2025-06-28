@@ -32,4 +32,8 @@
 
 -   [**Tactical Seeability**](projects/tactical_seeability.md)
 
+-   [**Infrared-Constellation-Aided Landing of eVTOL Aircraft**](projects/infrared_landing_evtol_aircraft.md)
+
+-   [**Robust Landing for UAVs in Maritime Environments**](projects/boatlanding.md)
+
 </div>
