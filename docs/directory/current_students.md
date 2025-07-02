@@ -8,7 +8,7 @@ To add an entry to this page, we need to two things:
 2. Copy the template student page and fill it with your information.
 
 To do the first:
-Copy the template below and add it inside the <div> HTML blocks for the correct section, in alphabetical order by last name. Replace all `first` and `last` with your own name. Copy a professional photo of yourself named first_last.jpg (or .png, just make sure to update the filepath on the grid entry too) to the docs/directory/assets folder, cropped to be square and no larger than 600x600 in resolution, to keep webpage load times quick.
+Copy the template below and add it inside the <div> HTML blocks for the correct section. Replace all `first` and `last` with your own name. Copy a professional photo of yourself named first_last.jpg (or .png, just make sure to update the filepath on the grid entry too) to the docs/directory/assets folder, cropped to be square and no larger than 600x600 in resolution, to keep webpage load times quick.
 
 To do the second:
 Copy the template.md file in the docs/directory/students folder, renaming your copy to first_last.md of your name. Populate each section of the template with your information.

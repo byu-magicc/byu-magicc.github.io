@@ -8,8 +8,7 @@ To add an entry to this page, we need to do two things:
 2. Copy the template project page and fill it with your project information.
 
 To do the first:
-Copy the template below and add it inside the <div> HTML blocks, with entries in alphabetical order.
-Add an overview picture to docs/research/projects/assets/{your project name}. This photo should be cropped square and about 600x600 in size (to keep webpage page load times quick).
+Copy the template below and add it inside the <div> HTML blocks. Add an overview picture to docs/research/projects/assets/{your project name}. This photo should be cropped square and about 600x600 in size (to keep webpage page load times quick).
 
 To do the second:
 Copy the template.md file in the docs/directory/projects folder, renaming your copy to {project_name}.md. Fill the template with whatever information you'd like to include to show off your project. You can add additional photos to your assets folder and include them there. 
