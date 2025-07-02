@@ -30,6 +30,10 @@ TEMPLATE
 -   ![](assets/brandon_sutherland.jpg){ width=300px }
 
     [**<span style="font-size: 25px;">Brandon Sutherland</span>**](students/brandon_sutherland.md)
+    
+-   ![](assets/david_akagi.jpg){ width=300px }
+
+    [**<span style="font-size: 25px;">David Akagi</span>**](students/david_akagi.md)
 </div>
 
 # Masters Students
