@@ -3,12 +3,18 @@ EDITING GUIDELINES
 
 This page is organized with Material for MkDocs' grid feature.
 
-To add an entry to this page, copy the template below and add it inside the <div> HTML blocks.
-Add entries to this page in alphabetical order.
-Create an additional file in the docs/research/projects folder, and link to that file from this page.
-Add an overview picture to docs/research/projects/assets/{your project name}.
-Put whatever you want to show off your research in that new page.
-Check out the documentation for Material for MkDocs to learn about what you can do with your page: https://squidfunk.github.io/mkdocs-material/
+To add an entry to this page, we need to do two things:
+1. Add a project photo and entry to the current_projects.md page.
+2. Copy the template project page and fill it with your project information.
+
+To do the first:
+Copy the template below and add it inside the <div> HTML blocks, with entries in alphabetical order.
+Add an overview picture to docs/research/projects/assets/{your project name}. This photo should be cropped square and about 600x600 in size (to keep webpage page load times quick).
+
+To do the second:
+Copy the template.md file in the docs/directory/projects folder, renaming your copy to {project_name}.md. Fill the template with whatever information you'd like to include to show off your project. You can add additional photos to your assets folder and include them there. 
+
+Once you've done this follow the instructions in the README.md to build and host the webpage locally (it's much easier than it sounds) and make sure everything looks good with your additions. Also, check out the documentation for Material for MkDocs to learn about what you can do with your page: https://squidfunk.github.io/mkdocs-material/
 
 All projects, past and current, are found in this directory so their URLs don't change when they get moved from current to past.
 

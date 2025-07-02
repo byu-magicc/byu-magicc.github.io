@@ -1,3 +1,7 @@
+<!--
+This is the template for project pages. To add an additional project to the website, start with the instructions found in docs/research/current_projects.md.
+-->
+
 # Project Name
 
 Write a mid-length summary here. We want this to give a good overview of the project's work and focus, but not be so in-depth that it starts to sound like a publication. Many website visitors are just going to skim this page, so we want the most important information easily presented. As such, we ask that EACH PROJECT HAS AT LEAST ONE VISUAL (more is better) describing their project.

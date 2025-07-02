@@ -1,3 +1,9 @@
+<!--
+This is the template for student pages. To add yourself to the website, start with the instructions found in docs/directory/current_students.md.
+
+The profile picture here uses the same as on the current students page, but if you'd like a larger or higher resolution one for your page then you can add another photo. Just make sure it isn't too large, ideally no larger than 10mb.
+-->
+
 # First Last
 
 ![](assets/first_last.jpg){ width=350px }
