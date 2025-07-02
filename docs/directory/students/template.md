@@ -21,8 +21,8 @@ Write a professional bio about yourself, something that would provide interestin
 
 Give a brief overview about your past and current research. Then make sure to link any research projects you mention below.
 
-- [Project Name Here](../../research/current_projects/{project_name_here}.md)
-- [Project Name Here](../../research/current_projects/{project_name_here}.md)
+- [Project Name Here](../../research/projects/{project_name_here}.md)
+- [Project Name Here](../../research/projects/{project_name_here}.md)
 - [Project Name Here]({You can also put external links here if you'd rather})
 
 ## Papers
