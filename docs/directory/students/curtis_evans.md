@@ -19,11 +19,11 @@ When Curtis isn't working for the MAGICC lab he enjoys running and training for 
 
 Curtis is working on the Sense and Avoid project.
 
-- [Sense and Avoid](../../research/current_projects/{project_name_here}.md)
+- [Sense and Avoid](../../research/current_projects/sense_and_avoid_for_unmanned_aircraft_systems.md)
 
 ## Papers
 
-- [Vision-Based Collision Avoidance and Path Planning for UAVs Using Bearing and Pixel Area](10.1109/ICUAS65942.2025.11007929)
-- [Real-Time B-Spline Path Planning for Vision-Based Collision Avoidance](10.1109/PLANS61210.2025.11028267)
+- [Vision-Based Collision Avoidance and Path Planning for UAVs Using Bearing and Pixel Area]({https://ieeexplore.ieee.org/abstract/document/11007929})
+- [Real-Time B-Spline Path Planning for Vision-Based Collision Avoidance]({https://ieeexplore.ieee.org/abstract/document/11028267})
 
 
