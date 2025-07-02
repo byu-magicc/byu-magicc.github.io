@@ -39,6 +39,10 @@ TEMPLATE
 
     [**<span style="font-size: 25px;">Jacob Moore</span>**](students/jacob_moore.md)
 
+-   ![](assets/ian_reid.jpg){ width=300px }
+
+    [**<span style="font-size: 25px;">Ian Reid</span>**](students/ian_reid.md)
+
 </div>
 
 # Undergraduate Students
