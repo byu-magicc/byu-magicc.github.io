@@ -38,6 +38,12 @@ TEMPLATE
     [**<span style="font-size: 25px;">David Akagi</span>**](students/david_akagi.md)
 </div>
 
+<div class="grid cards" markdown>
+-   ![](assets/curtis_evans_headshot.jpg){ width=300px }
+
+    [**<span style="font-size: 25px;">Curtis Evans</span>**](students/curtis_evans.md)
+</div>
+
 # Masters Students
 
 <div class="grid cards" markdown>
