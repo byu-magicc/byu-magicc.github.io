@@ -8,10 +8,10 @@ To add an entry to this page, we need to do two things:
 2. Copy the template project page and fill it with your project information.
 
 To do the first:
-Copy the template below and add it inside the <div> HTML blocks. Add an overview picture to docs/research/projects/assets/{your project name}. This photo should be cropped square and about 600x600 in size (to keep webpage page load times quick).
+Copy the template below and add it inside the <div> HTML blocks. Add an overview picture to docs/research/projects/assets/{your project name}. This photo should be cropped square and about 600x600 in size, to keep webpage page load times quick. GIMP can do this with it's crop tool and `Image > Scale Image`.
 
 To do the second:
-Copy the template.md file in the docs/directory/projects folder, renaming your copy to {project_name}.md. Fill the template with whatever information you'd like to include to show off your project. You can add additional photos to your assets folder and include them there. 
+Copy the template.md file in the docs/directory/projects folder, renaming your copy to {project_name}.md. Fill the template with whatever information you'd like to include to show off your project. You can add additional photos to your assets folder and include them there.
 
 Once you've done this follow the instructions in the README.md to build and host the webpage locally (it's much easier than it sounds) and make sure everything looks good with your additions. Also, check out the documentation for Material for MkDocs to learn about what you can do with your page: https://squidfunk.github.io/mkdocs-material/
 
