@@ -7,7 +7,6 @@ edit_uri: 'https://github.com/byu-magicc/byu-magicc.github.io/edit/main/docs/'
 theme:
   name: material
   features:
-    - content.action.edit
     - navigation.tabs
   palette:
     primary: custom
