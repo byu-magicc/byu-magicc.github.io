@@ -25,5 +25,9 @@ jobs:
       run: |
         pip install -r requirements.txt
 
+    - name: Create CNAME file
+      run: |
+        echo "magicc.byu.edu" > docs/CNAME
+
     - name: Build and Deploy
       run: mkdocs gh-deploy --force
