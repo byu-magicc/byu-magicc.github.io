@@ -1,4 +1,4 @@
-# First Last
+# Curtis Evans
 
 ![](../assets/curtis_evans.jpg){ width=350px }
 
