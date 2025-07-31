@@ -47,4 +47,12 @@ TEMPLATE
 
     ![](projects/assets/rosflight/logo.png){ width=300px }
 
+-   [**Sense and Avoid for Micro Aircraft Vehicles**](projects/sense_and_avoid_for_micro_aircraft_vehicles.md)
+
+    ---
+
+    Sense and avoid on a micro aircraft vehicle using bearing and pixel measurements from a camera mounted on the vehicle.
+
+    ![](projects/assets/sense_and_avoid_for_micro_aircraft_vehicles/saa_group_photo.jpg){ width=300px }
+
 </div>
