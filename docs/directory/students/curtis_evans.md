@@ -19,7 +19,7 @@ When Curtis isn't working for the MAGICC lab he enjoys running and training for 
 
 Curtis is working on the Sense and Avoid project.
 
-- [Sense and Avoid](../../research/projects/sense_and_avoid_for_unmanned_aircraft_systems.md)
+- [Sense and Avoid for Micro Aircraft Vehicles](../../research/projects/sense_and_avoid_for_micro_aircraft_vehicles.md)
 
 ## Papers
 
