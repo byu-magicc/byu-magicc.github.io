@@ -1,6 +1,6 @@
 # First Last
 
-![](../assets/curtis_evans_headshot.jpg){ width=350px }
+![](../assets/curtis_evans.jpg){ width=350px }
 
 ---
 
