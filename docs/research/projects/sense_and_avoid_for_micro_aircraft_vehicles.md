@@ -27,7 +27,7 @@ This project is funded by Utopia Compression Corporation
 ![type:video](https://www.youtube.com/embed/UrTG5mWmrlE)
 
 
-- Real-time path planning in a 2D scenario using only bearing and pixel measurements. The video shows ownship avoiding the wedges, which is a collision free path. The wedge is an area of where the observed object is likely to be, so a successful avoidance of the wedge is a succesful avoidance of the observed object.
+- Real-time path planning in a 2D scenario using only bearing and pixel measurements. The video shows ownship avoiding the wedges, which is a collision free path. The wedge is an area of where the observed object is likely to be, so a successful avoidance of the wedge is a successful avoidance of the observed object.
 ![type:video](https://www.youtube.com/embed/Y97FsTZLnfo)
 
 ## Papers, Theses, and Presentations
