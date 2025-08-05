@@ -53,6 +53,9 @@ TEMPLATE
 
     [**<span style="font-size: 25px;">Ian Reid</span>**](students/ian_reid.md)
 
+-   ![](assets/dean_anderson.jpg){ width=300px }
+
+    [**<span style="font-size: 25px;">Ian Reid</span>**](students/dean_anderson.md)
 </div>
 
 # Undergraduate Students
