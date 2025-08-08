@@ -12,16 +12,18 @@ Our research includes using factor graphs for decentralized multi-agent estimati
 ## Personnel
 
 ### Students
+
 - Brendon Forsgren
-- Chad Samuelson
-- Kalliyan Velasco
+- [Chad Samuelson](https://frostlab.byu.edu/directory/chad-samuelson)
+- [Kalliyan Velasco](https://frostlab.byu.edu/directory/kalliyan-lay)
 - [Brandon Sutherland](../../directory/students/brandon_sutherland.md)
 - Gabe Snow
 - [Jacob Moore](../../directory/students/jacob_moore.md)
 
 ### Faculty
+
 - [Tim McLain](../../directory/faculty.md)
-- Joshua Mangelson
+- [Joshua Mangelson](https://frostlab.byu.edu/directory/joshua-mangelson)
 
 ## Paper
 
