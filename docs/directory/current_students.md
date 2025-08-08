@@ -37,9 +37,13 @@ TEMPLATE
 
     [**<span style="font-size: 25px;">David Akagi</span>**](students/david_akagi.md)
 
--   ![](assets/curtis_evans_headshot.jpg){ width=300px }
+-   ![](assets/curtis_evans.jpg){ width=300px }
 
     [**<span style="font-size: 25px;">Curtis Evans</span>**](students/curtis_evans.md)
+
+-   ![](assets/jj_liu.jpg){ width=300px }
+
+    [**<span style="font-size: 25px;">Jen Jui Lui</span>**](students/jen_jui_liu.md)
 </div>
 
 # Masters Students
@@ -53,6 +57,9 @@ TEMPLATE
 
     [**<span style="font-size: 25px;">Ian Reid</span>**](students/ian_reid.md)
 
+-   ![](assets/dean_anderson.jpg){ width=300px }
+
+    [**<span style="font-size: 25px;">Dean Anderson</span>**](students/dean_anderson.md)
 </div>
 
 # Undergraduate Students
