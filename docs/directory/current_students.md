@@ -40,6 +40,10 @@ TEMPLATE
 -   ![](assets/curtis_evans.jpg){ width=300px }
 
     [**<span style="font-size: 25px;">Curtis Evans</span>**](students/curtis_evans.md)
+
+-   ![](assets/jj_liu.jpg){ width=300px }
+
+    [**<span style="font-size: 25px;">Jen Jui Lui</span>**](students/jen_jui_liu.md)
 </div>
 
 # Masters Students
