@@ -27,7 +27,7 @@ He is also working on a project enhancing localization accuracy in GPS-denied re
 
 Please reach out with any questions you may have!
 
-- [ROSflight](https://rosflight.org/)
+- [ROSflight](../../research/projects/rosflight.md)
 - [Cooperative GPS Navigation](../../research/projects/cooperative_gps_denied_nav.md)
 
 ### Past Projects
