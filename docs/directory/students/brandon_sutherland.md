@@ -12,7 +12,7 @@
 
 Brandon is a Doctoral student in the Electrical and Computer Engineering department with Dr. McLain as his advisor. He joined the MAGICC lab in Febuary 2021 and graduated from BYU with a Bachelor's degree in Mechanical Engineering in April 2024.
 
-Brandon first became interested in aerial robotics when he learned to build and fly FPV racing drones, where he began to obsess over how to get the fastest attitude rate control response possible out of Betaflight's PID loops. He also enjoys mountain biking, building random things, and reading books in his spare time.
+Brandon first became interested in aerial robotics when he learned to build and fly FPV racing drones, where he began to obsess over how to get the fastest control response possible out of autopilot. He also enjoys mountain biking, building random things, and reading books in his spare time.
 
 ## Research
 
