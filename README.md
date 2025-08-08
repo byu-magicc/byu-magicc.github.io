@@ -9,8 +9,8 @@ Guides and other less-important information should be placed in either the [publ
 This website is built with Material for MkDocs. The guide below describes how to get the website up and running on a local machine for easy editing. For more extensive documentation, visit the [official documentation](https://squidfunk.github.io/mkdocs-material/).
 
 ## Adding a student or project page
-To add a student page, navigate to [docs/directory/current_students.md] and follow the instructions found there.
-To add a project page, navigate to [docs/research/current_projects.md] and follow the instructions there.
+To add a student page, navigate to [docs/directory/current_students.md](docs/directory/current_students.md) and follow the instructions found there.
+To add a project page, navigate to [docs/research/current_projects.md](docs/research/current_projects.md) and follow the instructions there.
 If you have any questions, reach out to one of the lab webmasters and they can assist you.
 
 ## Install mkdocs
