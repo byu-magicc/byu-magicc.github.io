@@ -28,7 +28,7 @@ He is currently working on ROSflight, a lean open source autopilot.
 It aims to be easily modifiable and understandable for reasearch applicaitons.
 He is also working on comparisons of cutting edge state estimation algorithms for multirotors, fixedwings and eVTOLs.
 
-- [ROSflight](https://rosflight.org/)
+- [ROSflight](../../research/projects/rosflight.md)
 
 ### Past Projects
 Ian has also worked on the GPS-denied landing of eVTOL aircraft using infrared light constellations.
