@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!--
 This is the template for student pages. To add yourself to the website, start with the instructions found in docs/directory/current_students.md.
 
@@ -8,11 +7,6 @@ The profile picture here uses the same as on the current students page, but if y
 # Jen-Jui Liu
 
 ![](../assets/jj_liu_1by1.jpg)
-=======
-# Jen-Jui Liu
-
-![](../assets/jj_liu.jpg)
->>>>>>> 6b89000eb2e23b9b89b480b1bcf42e3eafd0dcfd
 
 ---
 
@@ -32,7 +26,6 @@ My research focuses on vision-guided UAV autonomy, with a particular emphasis on
 ### Professional Background
 Before my doctoral studies, I worked as a Principal Engineer in the systems industry, where I developed expertise in machine learning and pattern recognition.
 
-<<<<<<< HEAD
 ## Research
 
 <!-- Give a brief overview about your past and current research. Then make sure to link any research projects you mention below.
@@ -41,8 +34,6 @@ Before my doctoral studies, I worked as a Principal Engineer in the systems indu
 - [Project Name Here](../../research/projects/{project_name_here}.md)
 - [Project Name Here]({You can also put external links here if you'd rather}) -->
 
-=======
->>>>>>> 6b89000eb2e23b9b89b480b1bcf42e3eafd0dcfd
 ## Papers
 
 ### 2025
@@ -68,8 +59,5 @@ Before my doctoral studies, I worked as a Principal Engineer in the systems indu
 ### 2009
 - [Automatic heart sound analysis with short-time fourier transform and support vector machines](https://ieeexplore.ieee.org/document/5236120) - IEEE International Midwest Symposium on Circuits and Systems
 
-<<<<<<< HEAD
 ## Other
 
-=======
->>>>>>> 6b89000eb2e23b9b89b480b1bcf42e3eafd0dcfd
