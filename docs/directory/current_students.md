@@ -44,6 +44,10 @@ TEMPLATE
 -   ![](assets/jj_liu.jpg){ width=300px }
 
     [**<span style="font-size: 25px;">Jen Jui Lui</span>**](students/jen_jui_liu.md)
+
+-   ![](assets/grant_stagg.jpg){ width=300px }
+
+    [**<span style="font-size: 25px;">Grant Stagg</span>**](students/grant_stagg.md)
 </div>
 
 # Masters Students
