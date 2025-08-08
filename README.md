@@ -8,13 +8,16 @@ Guides and other less-important information should be placed in either the [publ
 
 This website is built with Material for MkDocs. The guide below describes how to get the website up and running on a local machine for easy editing. For more extensive documentation, visit the [official documentation](https://squidfunk.github.io/mkdocs-material/).
 
-## Install mkdocs
+## Adding a student or project page
+To add a student page, navigate to [docs/directory/current_students.md] and follow the instructions found there.
+To add a project page, navigate to [docs/research/current_projects.md] and follow the instructions there.
+If you have any questions, reach out to one of the lab webmasters and they can assist you.
 
+## Install mkdocs
 ``` bash
 pip install -r requirements.txt
 ```
 ## Run the mkdocs Server
-
 Type `mkdocs serve` in the root directory. It should report to you something like:
 
 ``` bash
@@ -26,9 +29,6 @@ This means that mkdocs is hosting a webpage for you on http://127.0.0.1:8000. Na
 
 Now, as you make changes to the documentation, you should be able to see it on your browser. Just hit reload from time to time to see your changes.
 
-## Adding Pages
-To add a new page to the documentation, just take a look at the mkdocs.yml file in the root of the firmware directory. You should be able to figure it out from there.
-
 ## Adding LaTeX
 The syntax for adding LaTeX math inline is `\( x \)`, which renders as x. For adding a block, it's
 
@@ -37,5 +37,4 @@ $$ E = mc^2 $$
 ```
 
 ## Publishing changes on website
-
 Any changes that are pushed to the main branch will automatically be applied to the website. Just submit a pull request!
