@@ -51,4 +51,5 @@ A semantic, hierarchical, and sparse map representation (3D Scene Graph) allows 
 ## Papers
 
 - [Group-k Consistent Measurement Set Maximization for Robust Outlier Detection](https://doi.org/10.1109/IROS47612.2022.9982057)
+- [Towards Terrain-Aware Task-Driven 3D Scene Graph Generation in Outdoor Environments](https://arxiv.org/abs/2506.06562)
 
