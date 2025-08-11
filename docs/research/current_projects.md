@@ -39,7 +39,7 @@ TEMPLATE
 
     ![](projects/assets/cooperative_gps_denied_nav/uavs_over_ocean.png){ width=300px }
 
--   [**ROSflight**](https://rosflight.org/)
+-   [**ROSflight**](projects/rosflight.md)
 
     ---
 
