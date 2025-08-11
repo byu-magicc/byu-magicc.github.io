@@ -33,7 +33,9 @@ Extensive documentation on the project can be found at the [ROSflight website](h
 
 ## Papers
 
-- [Paper Name Here]({DOI line here})
+- [ROSflight: A lightweight, inexpensive MAV research and development tool](https://doi.org/10.1109/ICUAS.2016.7502584)
+- [ROSplane: Fixed-wing autopilot for education and research](https://doi.org/10.1109/ICUAS.2017.7991397)
+- [ROSflight: A Lean Open-Source Research Autopilot](https://doi.org/10.1109/IROS45743.2020.9341653)
 
 ## Code
 
