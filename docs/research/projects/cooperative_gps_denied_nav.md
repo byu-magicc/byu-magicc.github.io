@@ -7,23 +7,25 @@ This research is done in collaboration with the [BYU FRoSt Lab](https://frostlab
 
 ## Research Areas
 
-### Multi-agent Localization with Outlier Rejection
+![](../projects/assets/cooperative_gps_denied_nav/overview.png)
+
+### 1 - Multi-agent Localization with Outlier Rejection
 
 The presence of outliers in sensor measurements can severely degrade localization estimates.
 Group-k consistent set maximization (GkCM) can be used to perform outlier rejection for lower degree-of-freedom (DoF) measurements, but is not as well studied as its pairwise counterpart.
 We do research in GkCM and also address outlier rejection for bearing-only measurements, with applications to acoustic, camera, RF, and signals of opportunity sensor measurements.
 
-### Semantic Mapping and Multi-View Localization Using Heterogeneous Teams
+### 2 - Multi-agent Localization with Existing Single-agent Vehicles
+
+Existing single-agent systems need a method of being incorporated into cooperative localization frameworks that fully utilizes the single-agent’s existing estimator performance without degrading it or requiring significant modification of the filter.
+We are researching methods of easily integrating diverse multi-agent measurement types in extended Kalman filter estimators.
+
+### 3 - Semantic Mapping and Multi-View Localization Using Heterogeneous Teams
 
 A heterogeneous multi-agent team enables efficient mapping and cross-view localization.
 A semantic, hierarchical, and sparse map representation (3D Scene Graph) allows for data-efficient storage and transfer, supporting high-level intelligent robotic tasks and enabling robust cross-view localization.
 
 ![](../projects/assets/cooperative_gps_denied_nav/semantic_mapping.png)
-
-### Multi-agent Localization with Existing Single-agent Vehicles
-
-Existing single-agent systems need a method of being incorporated into cooperative localization frameworks that fully utilizes the single-agent’s existing estimator performance without degrading it or requiring significant modification of the filter.
-We are researching methods of easily integrating diverse multi-agent measurement types in extended Kalman filter estimators.
 
 ## Sponsors
 
