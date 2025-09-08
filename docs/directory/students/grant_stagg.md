@@ -36,10 +36,10 @@ Grant’s research spans three core areas within UAV guidance and path planning:
 **[Path Planning in Uncertain and Adversarial Environments](https://grastagg.github.io/research/)**
 
 ## Papers
-- **[Bi-Level Route Optimization and Path Planning with Hazard Exploration](https://arxiv.org/abs/2503.24044)** – *IEEE CDC 2026 (accepted)*
+- **[Bi-Level Route Optimization and Path Planning with Hazard Exploration](https://arxiv.org/abs/2503.24044)** – *IEEE CDC 2025 (accepted)*
 - **[Turn-Rate Limited Probabilistic Weapon Engagement Zones](https://grastagg.github.io/research/cspez/)** – *Under review*
-- **[Cooperative Multi-Agent Path Planning for Heterogeneous UAVs in Contested Environments](https://grastagg.github.io/research/radar/)** – *Under review*
-- **[Probabilistic Weapon Engagement Zones](https://grastagg.github.io/research/pez/)** – *ACC 2025*
+- **[Cooperative Multi-Agent Path Planning for Heterogeneous UAVs in Contested Environments](https://arxiv.org/abs/2509.02483)** – *Under review*
+- **[Probabilistic Weapon Engagement Zones](https://ieeexplore.ieee.org/abstract/document/11107966)** – *ACC 2025*
 - **[Multi-Agent Path Planning for Level Set Estimation Using B-Splines and Differential Flatness](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10490113)** – *IEEE RAL 2024*
 - **[Decentralized Sparse Gaussian Process Regression with Event-Triggered Adaptive Inducing Points](https://link.springer.com/content/pdf/10.1007/s10846-023-01894-3.pdf)** – *Journal of Intelligent & Robotic Systems 2023*
 
