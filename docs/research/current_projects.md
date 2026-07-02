@@ -31,6 +31,14 @@ TEMPLATE
 
 <div class="grid cards" markdown>
 
+-   [**4D Flight Path Conflict Detection and Resolution**](projects/4d_flight_path_conflict_detection_and_resolution.md)
+
+    ---
+
+    Continuous-time aircraft trajectory deconfliction using 4D polynomial flight paths and distributed optimization.
+
+    ![Conflict detection and resolution with 4D flight paths](projects/assets/4d_flight_path_conflict_detection_and_resolution/conflict.png){ width=100% }
+
 -   [**Cooperative GPS Denied Navigation**](projects/cooperative_gps_denied_nav.md)
 
     ---
@@ -38,6 +46,22 @@ TEMPLATE
     Cooperative navigation of heterogeneous robotic vehicles utilizing VIO, SLAM, and machine learning technologies.
 
     ![](projects/assets/cooperative_gps_denied_nav/uavs_over_ocean.png){ width=300px }
+
+-   [**Explore Now, Exploit Later**](projects/explore_now_exploit_later_optimal_uas_fleet_coordination_for_environmental_and_adversarial_threats.md)
+
+    ---
+
+    Risk-aware UAS fleet coordination that balances exploring uncertain threats with safely exploiting learned information.
+
+    ![Path planning with probabilistic engagement zone](projects/assets/explore_now_exploit_later_optimal_uas_fleet_coordination_for_environmental_and_adversarial_threats/image53.gif){ width=100% }
+
+-   [**LATIS**](projects/latis.md)
+
+    ---
+
+    Networked phased-array radar for real-time small UAS tracking and local airspace awareness.
+
+    ![LATIS networked radar overview](projects/assets/latis/overview.png){ width=100% }
 
 -   [**ROSflight**](projects/rosflight.md)
 
@@ -54,5 +78,13 @@ TEMPLATE
     Sense and avoid on a micro aircraft vehicle using bearing and pixel measurements from a camera mounted on the vehicle.
 
     ![](projects/assets/sense_and_avoid_for_micro_aircraft_vehicles/saa_group_photo.jpg){ width=300px }
+
+-   [**Space-Time Graph of Convex Sets**](projects/space_time_graph_of_convex_sets.md)
+
+    ---
+
+    Optimal collision-free trajectory planning in dynamic environments using graphs of convex sets.
+
+    ![Space-Time Graph of Convex Sets trajectory planning](projects/assets/space_time_graph_of_convex_sets/image19.gif){ width=100% }
 
 </div>
