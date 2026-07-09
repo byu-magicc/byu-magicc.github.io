@@ -53,6 +53,10 @@ TEMPLATE
 # Masters Students
 
 <div class="grid cards" markdown>
+-   ![](assets/daric_meyers.png){ width=300px }
+
+    [**<span style="font-size: 25px;">Daric Meyers</span>**](students/daric_meyers.md)
+
 -   ![](assets/jacob_moore.jpg){ width=300px }
 
     [**<span style="font-size: 25px;">Jacob Moore</span>**](students/jacob_moore.md)
