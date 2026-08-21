@@ -48,6 +48,10 @@ TEMPLATE
 -   ![](assets/grant_stagg.jpg){ width=300px }
 
     [**<span style="font-size: 25px;">Grant Stagg</span>**](students/grant_stagg.md)
+
+-   ![](assets/matthew_osburn.png){ width=300px }
+
+    [**<span style="font-size: 25px;">Matthew Osburn</span>**](students/matthew_osburn.md)
 </div>
 
 # Masters Students

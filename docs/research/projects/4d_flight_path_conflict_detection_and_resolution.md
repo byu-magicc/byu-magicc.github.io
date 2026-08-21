@@ -42,3 +42,4 @@ Recent hardware experiments implemented the approach on quadrotor platforms usin
 
 - [Distributed Conflict Detection and Optimal 4D Trajectory Resolution Leveraging Polynomial Based Methods](https://scholarsarchive.byu.edu/studentpub/388/)
 - [Conflict Detection, Resolution, and Control of Aircraft using 4D Polynomial Splines](https://doi.org/10.23919/ACC63710.2025.11107516)
+- [Optimization of 4D Splines for Unmanned Aerial System Trajectories Under Kinematic, Obstacle, and Time Constraints](https://arc.aiaa.org/doi/abs/10.2514/6.2025-2230)

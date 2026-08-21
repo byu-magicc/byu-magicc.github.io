@@ -7,3 +7,5 @@ site/
 
 # Python files
 venv/
+.venv/
+.preview-venv/
