@@ -52,6 +52,10 @@ TEMPLATE
 -   ![](assets/matthew_osburn.png){ width=300px }
 
     [**<span style="font-size: 25px;">Matthew Osburn</span>**](students/matthew_osburn.md)
+
+-   ![](assets/austin_stone.png){ width=300px }
+
+    [**<span style="font-size: 25px;">Austin Stone</span>**](students/austin_stone.md)
 </div>
 
 # Masters Students
