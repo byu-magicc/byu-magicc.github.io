@@ -76,6 +76,11 @@ TEMPLATE
 -   ![](assets/dean_anderson.jpg){ width=300px }
 
     [**<span style="font-size: 25px;">Dean Anderson</span>**](students/dean_anderson.md)
+
+-   ![](assets/james_subieta.png){ width=300px }
+
+    [**<span style="font-size: 25px;">James Subieta</span>**](students/james_subieta.md)
+
 </div>
 
 # Undergraduate Students
