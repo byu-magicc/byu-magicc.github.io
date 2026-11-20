@@ -31,6 +31,14 @@ TEMPLATE
 
 <div class="grid cards" markdown>
 
+-   [**Air-to-Ground Radar Multi-Target-Tracking using Factor Graphs and Recursive Random Sample Consensus**](projects/Multi_Target_Tracking_with_Factor_Graph.md)
+
+    ---
+
+    Expanding ground-moving-target-indicators using factor graphs and recursive random sampled consensus for better clutter suppression, smoother, more consistent tracks, and localization capabilities. 
+
+    ![Air-to-Ground Radar Multi-Target-Tracking using Factor Graphs and Recursive Random Sample Consensus](projects/assets/multi_target_tracking_with_factor_graphs/FG_rransac_demo_spedup.gif){ width=100% }
+
 -   [**4D Flight Path Conflict Detection and Resolution**](projects/4d_flight_path_conflict_detection_and_resolution.md)
 
     ---
