@@ -24,13 +24,13 @@ James is currently working on expanding multiple target tracking capabilities on
 
 The previous project James worked on was on GPS denied navigation assisting in utilizing LTE signals of opportunity to derive navigation solution corrections for drones. 
 
-- [Project Name Here](../../research/projects/{project_name_here}.md)
+- [Air-to-Ground Radar Multi-Target-Tracking using Factor Graphs and Recursive Random Sample Consensus](../../research/projects/Multi_Target_Tracking_with_Factor_Graph.md)
 - [GPS Denied Navigation](../../research/projects/gps_denied_navigation.md)
 
 ## Papers
 
-- [Air-to-Ground Radar Multi-Target-Tracking using Factor Graphs and Recursive Random Sample Consensus]({https://www.ion.org/plans/abstracts.cfm?paperID=17298})
-- [Long-Range Bluetooth Smart Stake System for Soil Sensing]({https://doi.org/10.1109/IETC57902.2023.10152045})
+- [Air-to-Ground Radar Multi-Target-Tracking using Factor Graphs and Recursive Random Sample Consensus](https://www.ion.org/plans/abstracts.cfm?paperID=17298)
+- [Long-Range Bluetooth Smart Stake System for Soil Sensing](https://doi.org/10.1109/IETC57902.2023.10152045)
 
 ## {Other Projects of Interest}
 <!-- 

@@ -48,7 +48,7 @@ Notice the `embed` link here. You'll want to copy the part of your YouTube link 
 
 ## Papers, Theses, and Presentations
 
-- [IEEE/ION PLANS 2027]({https://www.ion.org/plans/abstracts.cfm?paperID=17298})
+- [IEEE/ION PLANS 2027](https://www.ion.org/plans/abstracts.cfm?paperID=17298)
 
 <!-- - [Paper Name Here]({DOI line here})
 - [Presentation Name Here]({Link to powerpoint presentation}) -->
