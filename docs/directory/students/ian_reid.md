@@ -10,7 +10,7 @@
 
 ## About
 
-Ian Reid is a Electrical Engineering Master's student under Dr. McLain. He has been working in the MAGICC lab since 2022. 
+Ian Reid was an Electrical Engineering master's student under Dr. McLain. He joined the MAGICC lab in 2022.
 
 He has an undergraduate in Mechanical Engineering from BYU.
 He is sucker for a good problem to solve no matter what it may be.
@@ -21,12 +21,12 @@ Ian loves to solve problems in sensible ways, looking for unexpected connections
 
 ## Research
 
-### Current Projects
-Ian is researching state estimation, with a special focus on comparison between state estimation paradigms. 
+### Projects
+Ian researched state estimation, with a special focus on comparison between state estimation paradigms.
 
-He is currently working on ROSflight, a lean open source autopilot.
+He worked on ROSflight, a lean open source autopilot.
 It aims to be easily modifiable and understandable for reasearch applicaitons.
-He is also working on comparisons of cutting edge state estimation algorithms for multirotors, fixedwings and eVTOLs.
+He also worked on comparisons of state estimation algorithms for multirotors, fixed-wing aircraft and eVTOLs.
 
 - [ROSflight](../../research/projects/rosflight.md)
 

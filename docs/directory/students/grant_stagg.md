@@ -17,7 +17,7 @@ The profile picture here uses the same as on the current students page, but if y
 ## About
 
 
-Grant is a Doctoral student in the Electrical and Computer Engineering department at Brigham Young University, advised by Dr. Cameron Peterson. He earned his Bachelor’s degree in Electrical Engineering from BYU in 2021.
+Grant graduated with a PhD in Electrical and Computer Engineering from Brigham Young University in April 2026, advised by Dr. Cameron Peterson. He earned his Bachelor’s degree in Electrical Engineering from BYU in 2021. His dissertation is [Engagement Modeling and Inference for Risk-Aware Path Planning Under Adversarial Uncertainty](https://scholarsarchive.byu.edu/etd/11268/).
 
 His research focuses on path planning for unmanned aerial vehicles (UAVs) in adversarial and uncertain environments, with an emphasis on algorithms that account for environmental uncertainty, sensor limitations, and intelligent adversaries. These methods aim to enable autonomous systems to operate more safely and effectively in challenging conditions.
 

@@ -45,10 +45,6 @@ TEMPLATE
 
     [**<span style="font-size: 25px;">Jen Jui Lui</span>**](students/jen_jui_liu.md)
 
--   ![](assets/grant_stagg.jpg){ width=300px }
-
-    [**<span style="font-size: 25px;">Grant Stagg</span>**](students/grant_stagg.md)
-
 -   ![](assets/matthew_osburn.png){ width=300px }
 
     [**<span style="font-size: 25px;">Matthew Osburn</span>**](students/matthew_osburn.md)
@@ -56,6 +52,10 @@ TEMPLATE
 -   ![](assets/austin_stone.png){ width=300px }
 
     [**<span style="font-size: 25px;">Austin Stone</span>**](students/austin_stone.md)
+
+-   ![Ethan Smith](assets/ethan_smith.jpg){ width=300px }
+
+    [**<span style="font-size: 25px;">Ethan Smith</span>**](students/ethan_smith.md)
 </div>
 
 # Masters Students
@@ -65,17 +65,6 @@ TEMPLATE
 
     [**<span style="font-size: 25px;">Daric Meyers</span>**](students/daric_meyers.md)
 
--   ![](assets/jacob_moore.jpg){ width=300px }
-
-    [**<span style="font-size: 25px;">Jacob Moore</span>**](students/jacob_moore.md)
-
--   ![](assets/ian_reid.jpg){ width=300px }
-
-    [**<span style="font-size: 25px;">Ian Reid</span>**](students/ian_reid.md)
-
--   ![](assets/dean_anderson.jpg){ width=300px }
-
-    [**<span style="font-size: 25px;">Dean Anderson</span>**](students/dean_anderson.md)
 </div>
 
 # Undergraduate Students

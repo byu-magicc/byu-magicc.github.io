@@ -10,7 +10,7 @@
 
 ## About
 
-Jacob is a master's student in the department of Electrical and Computer Engineering, with Dr. Tim McLain as his advisor.
+Jacob was a master's student in the department of Electrical and Computer Engineering, with Dr. Tim McLain as his advisor.
 He received his undergraduate degree in Mechanical Engineering from BYU in April 2024, and has been immersed in aerial robotics since January 2022, when he started an internship for Teledyne FLIR.
 On the side, he has started several companies, including development of a window-washing drone and FAA-licensed Remote ID broadcast modules.
 
@@ -18,12 +18,12 @@ Jacob is passionate about solving hard problems in robotics, flying drones, mech
 
 ## Research
 
-### Current Projects
+### Projects
 Jacob is interested in enhancing robotic autonomy safely, especially in a multi-agent setting.
-A current focus is consistent and accurate localization and estimation.
+His work focused on consistent and accurate localization and estimation.
 
-Current projects include ROSflight, an open-source autopilot aiming to streamline the research process, especially for eVTOL aircraft.
-He is also working on a project enhancing localization accuracy in GPS-denied regions even when communication is constrained.
+His projects included ROSflight, an open-source autopilot aiming to streamline the research process, especially for eVTOL aircraft.
+He also worked on enhancing localization accuracy in GPS-denied regions even when communication is constrained.
 
 Please reach out with any questions you may have!
 
