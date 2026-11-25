@@ -1,3 +1,41 @@
+## 2026
+
+<div class="grid cards" markdown>
+
+-   ![](assets/grant_stagg.jpg){ width=200px }
+
+    [**<span style="font-size: 20px;">Grant Stagg</span>**](students/grant_stagg.md)
+
+    **Degree**: PhD Electrical and Computer Engineering, April 2026
+
+    **Dissertation**: [Engagement Modeling and Inference for Risk-Aware Path Planning Under Adversarial Uncertainty](https://scholarsarchive.byu.edu/etd/11268/)
+
+-   ![](assets/jacob_moore.jpg){ width=200px }
+
+    [**<span style="font-size: 20px;">Jacob Moore</span>**](students/jacob_moore.md)
+
+    **Program**: MS Electrical and Computer Engineering
+
+    **Graduation**: Summer 2026 (unconfirmed)
+
+-   ![](assets/ian_reid.jpg){ width=200px }
+
+    [**<span style="font-size: 20px;">Ian Reid</span>**](students/ian_reid.md)
+
+    **Program**: MS Electrical Engineering
+
+    **Graduation**: Summer 2026 (unconfirmed)
+
+-   ![](assets/dean_anderson.jpg){ width=200px }
+
+    [**<span style="font-size: 20px;">Dean Anderson</span>**](students/dean_anderson.md)
+
+    **Program**: MS Electrical Engineering
+
+    **Thesis**: [Path Planning and Control for Vertical Takeoff and Landing Aircraft](https://scholarsarchive.byu.edu/etd/11207/) (submitted April 2026)
+
+</div>
+
 ## 2025
 
 <div class="grid cards" markdown>
